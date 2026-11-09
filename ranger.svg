@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+ <defs>
+  <radialGradient id="bg"><stop stop-color="#425b40"/><stop offset=".66" stop-color="#1c3529"/><stop offset="1" stop-color="#101e1a"/></radialGradient>
+  <linearGradient id="cloth" x1="128" y1="102" x2="277" y2="409" gradientUnits="userSpaceOnUse"><stop stop-color="#6a7c4c"/><stop offset=".33" stop-color="#39533b"/><stop offset="1" stop-color="#122d21"/></linearGradient>
+  <linearGradient id="leather" x1="144" y1="215" x2="239" y2="395" gradientUnits="userSpaceOnUse"><stop stop-color="#7d6a42"/><stop offset="1" stop-color="#2d3320"/></linearGradient>
+  <linearGradient id="face" x1="184" y1="127" x2="220" y2="194" gradientUnits="userSpaceOnUse"><stop stop-color="#c3a882"/><stop offset="1" stop-color="#5f6040"/></linearGradient>
+  <linearGradient id="fade" x1="0" y1="370" x2="0" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#0b1914" stop-opacity="0"/><stop offset="1" stop-color="#0b1914"/></linearGradient>
+ </defs>
+ <path fill="url(#bg)" d="M0 0h400v500H0z"/>
+ <ellipse cx="202" cy="218" rx="132" ry="169" stroke="#b1a36d" stroke-opacity=".18"/>
+ <ellipse cx="202" cy="218" rx="121" ry="157" stroke="#b1a36d" stroke-opacity=".1"/>
+ <path d="M202 31v21m0 330v23M56 216h21m250 0h21" stroke="#a59e6c" stroke-opacity=".25"/>
+ <g stroke="#253d2a" stroke-width="6" opacity=".6"><path d="M61 500V223m0 80-25-37m25 75 28-54M334 500V202m0 83 24-36m-24 87-22-29"/></g>
+ <g stroke="#918660" stroke-width="2"><path d="m243 253 28-170m-18 175 32-172m-45 162 16-172"/></g>
+ <g fill="#a29a6b"><path d="m266 105-5-17 12-17 4 18ZM279 105l-2-18 12-15 3 19ZM254 96l-6-15 10-15 4 16Z"/></g>
+ <path d="m232 181 40 8-17 124-35-10Z" fill="#3e4530" stroke="#8e8257"/>
+ <path d="M135 188q57-31 108-7l41 55 25 238-55 26H94l4-187Z" fill="url(#cloth)"/>
+ <path d="m140 194-25 126-4 167 38-51 20-232M236 188l20 309 46-21-35-238" fill="#102b1e" opacity=".65"/>
+ <path d="m168 176 9 38 44 5 10-46Z" fill="#434b2e"/>
+ <path d="M171 111q21-22 45-4l19 31-13 50-24 14-24-22-12-45Z" fill="url(#face)"/>
+ <path d="m162 133 32-13 37 18-7 14-26-7-30 10Z" fill="#12291d"/>
+ <path d="m183 149 9 1m14-1 10-2" stroke="#c7ba83" stroke-width="2"/><path d="m198 148-4 21h10m-13 13 15-1" stroke="#78764c" stroke-width="1.5"/>
+ <path d="M147 179q4-65 49-94 47 18 57 88l-24 26 4-57-35-26-31 24 6 49-14 19Z" fill="url(#cloth)" stroke="#75825a" stroke-width="1.2"/>
+ <path d="m149 178 15-41 34-38 35 36 17 41M161 191l11 15 46 11 21-19" stroke="#9ba06a" stroke-opacity=".3" stroke-width="2"/>
+ <path d="m160 208 39 20 33-15 18 68-14 71-78 0-16-67Z" fill="url(#leather)" stroke="#77805a"/>
+ <path d="m183 224 9 123M208 227l5 118M154 273l86 2m-87 27 84 1" stroke="#aaa071" stroke-opacity=".2"/>
+ <path d="m144 214 15 7 78 136-17 10Z" fill="#383b25" stroke="#8e8657"/><path d="m193 302 16-9 10 16-17 8Z" fill="#a7985f"/><path d="m199 302 5-3 7 9-5 3Z" fill="#333d25"/>
+ <path d="m139 217-17 18-16 70 10 19 20-6 25-71Z" fill="url(#cloth)" stroke="#687e50"/>
+ <path d="m232 220 21 8 34 76-12 21-24-13-27-59Z" fill="url(#cloth)" stroke="#687e50"/>
+ <path d="m110 298-6 48 28 6 5-39Z" fill="#514d2e" stroke="#8b8151"/><path d="m259 300 18-8 18 27-16 19Z" fill="#514d2e" stroke="#8b8151"/>
+ <path d="m154 341 83-1 9 22-91 7Z" fill="#3d3824"/><path d="M188 339h20v24h-20z" stroke="#b4a569" stroke-width="3"/>
+ <path d="m155 367-15 73-1 60h39l21-112 12 112h41l-2-59-16-80Z" fill="#263c26"/>
+ <path d="m144 434 35 7-8 59h-39ZM215 441l31-8 14 67h-43Z" fill="#172a1c" stroke="#566342"/>
+ <path d="M282 144q72 159 7 306" stroke="#b19c64" stroke-width="5"/><path d="M282 144 279 294 289 450" stroke="#cfbf84" stroke-width="1.2" opacity=".9"/>
+ <path d="M283 277h9l3 35-10 1Z" fill="#6c5834"/>
+ <path d="m273 306 11-9 9 3 3 15-10 10-11-7Z" fill="url(#face)"/>
+ <path d="m110 340 19-1 4 18-7 12-16-5Z" fill="url(#face)"/>
+ <path d="m157 360-25 57-12-2 22-62Z" fill="#6a6843"/><path d="m139 357 15 6 5-13-17-7Z" fill="#b4a06a"/>
+ <path d="m158 361-20 34 22 14 20-46Z" fill="#4b4a2d" stroke="#7b7950"/>
+ <path fill="url(#fade)" d="M0 370h400v130H0z"/>
+ <g fill="#c0b475" opacity=".4"><circle cx="72" cy="158" r="1"/><circle cx="312" cy="120" r="1.2"/><circle cx="81" cy="358" r="1"/><circle cx="327" cy="356" r="1"/></g>
+</svg>
